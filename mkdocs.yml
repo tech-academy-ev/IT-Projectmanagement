@@ -1,4 +1,4 @@
-site_name: App Development with Flutter
+site_name: IT Projectmanagement | TechAcademy
 theme:
   name: material 
   logo: images/white_logo_transparent.png
@@ -13,9 +13,7 @@ theme:
         name: Switch to light mode
 nav:
   - Home: index.md
-  - Introduction to Dart: dart.md
-  - Introduction to Flutter: flutter.md
-  - Introduction to git: git.md
+  - Introduction to Design Thinking: ds.md
   - Curriculum: curriculum.md
   - Course: course.md
   - Project: project.md
