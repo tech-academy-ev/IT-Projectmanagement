@@ -5,10 +5,11 @@ Also, it won’t hurt much to change a prototype, which only took you a couple o
 
 ### How do you approach Prototyping?
 Jake Knapp, the inventor of Design Sprints, has four principles for prototyping, which we’ll focus on in this course as well:
-    1. You can build anything
-    2. Prototypes are disposable
-    3. Build only essential features
-    4. The Prototype must look real
+
+1. You can build anything
+2. Prototypes are disposable
+3. Build only essential features
+4. The Prototype must look real
 
 
 We won’t go much into detail about these principles, because we believe them to be quite self-explanatory. But we do want to give you a few hints on how to start your prototyping journey!

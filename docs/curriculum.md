@@ -103,6 +103,7 @@ Today is your big day! You will present your idea in front of the group and get 
 
 ## Passing Criteria
 To pass this course and get your certificate your group will have to:
+
 - Go through and hand in a documentation of the key findings of each phase
 - Create and hand in the prototype of your idea
 - Pitch your idea (01.02.22)
