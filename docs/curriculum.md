@@ -61,10 +61,12 @@ How this is supposed to look like and which questions should be answered you can
 #### 4.4 Second MeetUp (14.12.2022)
 In this meetup you will start creating your prototype. To make sure you have all main features included and know what the user experience is supposed to be like you can create a storyboard. In the storyboard you’ll map out the user's journey while using the app. More information here: [https://designsprintkit.withgoogle.com/methodology/phase5-prototype/storyboard](https://designsprintkit.withgoogle.com/methodology/phase5-prototype/storyboard)
 Your story board could look like this:
-![Storyboard](/images/storyboard.png){ align=center }
+
+![Storyboard](./images/storyboard.png)
 
 It could also look like this:
-![Storyboard 2](/images/storyboard2.png){ align=center }
+
+![Storyboard 2](./images/storyboard2.png)
 
 You can find more examples here.
 You can also use any other method you’ve gotten to know in the Udemy Course.
@@ -98,7 +100,8 @@ Today is your big day! You will present your idea in front of the group and get 
 
 ## Deadline: Hand-In on 04.02.2023 (11.59PM)
 
-# Passing Criteria
+
+## Passing Criteria
 To pass this course and get your certificate your group will have to:
 - Go through and hand in a documentation of the key findings of each phase
 - Create and hand in the prototype of your idea
