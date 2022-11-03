@@ -17,7 +17,7 @@ nav:
   - Curriculum: curriculum.md
   - Course: course.md
   - Project: project.md
-  - Additional Resources: additional_resources.md
+  - Prototyping: prototyping.md
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
