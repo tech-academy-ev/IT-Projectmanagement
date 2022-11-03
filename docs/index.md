@@ -1,16 +1,10 @@
-# IT Project Management
+# IT Project-Management
 
-## Introduction
-Welcome!
-We are happy to introduce you to the newest offering of our semester program: the App Development Track!  Guiding you through your project will be Steffen Knödler. Steffen graduated with a Bachelor's degree in Economics & Business Administration from Goethe University. He holds a Master’s degree in IT and Digital innovation and has been working as a Full-Stack Flutter developer for more than 2 years. 
+## Welcome!
+TechAcademy seeks to shape the digital leader and thus drive and contribute to the digital transformation. So far, we have introduced participants to digital tools through our coding tracks, making it easier for them to develop a better understanding of technology. Although coding skills are important, a digital  leader also needs to have the necessary skills to generate and enforce new ideas. With the project management track we want to strengthen your innovative spirit and the required soft skills. 
 
-In this track you will be introduced to the platform framework Flutter. Why Flutter?  In the last year, Flutter has overtaken other tools and become the most popular toolkit for cross-platform mobile development. By February 2022, nearly 500,000 Flutter apps have already been published to the Google Play Store. Many large companies such as BMW, Alibaba, Philips and Google also develop apps based on Flutter and its community is growing. Like no other framework, Flutter offers the possibility to develop with one codebase (Dart).  Although the framework can be compiled for other platforms, such as web, macOS and Windows, this course will focus primarily on mobile app development, as it is very mature in mobile app development on Android and iOS.
+In this track you will be introduced to the basics of project management using the design thinking framework to generate and test customer-centric ideas. Based on this idea you will develop an initial prototype with figma, which you will pitch at the end of the semester. Our mix of select online courses and a real-world semester project allows you to experience the phases of an IT project first-hand. We will help and guide you along the way to the best of our abilities!
 
-Overall you will gain insight into the work of an app developer. Not only will you learn how to use Flutter but you will also make use of Android Studio, which is the official development environment for Google's open-source mobile operating system and was specifically created to give non-experts the opportunity to develop their own apps for the mobile operating system. Additionally you will get to know Android Emulators which make it possible to use the Android operating system on another operating system, for example Windows.
-
-We are excited to see you make your very first app development steps and help you enable you to find the right resources to learn!
-
-
-
-## Objectives
-You will learn the basics of app development with Flutter and will be able to develop your own apps for iOS and Android. By the end of this course, you will be able to create a Flutter app with a variety of pages, enable navigation between pages, and customize widgets to meet requirements.
+Over the next months, there will be a total of five Coding Meetups, spaced out evenly where you will have the ability to meet your peers, work together on your project and receive help from your mentor. In preparation we partnered up with Udemy and thus you have free access to the Design Thinking and Figma course. Everything you will learn there, you can later use within your own project and solidify your knowledge. We will go over the course and establish a timeframe on how far you should have progressed before each meetup later on. 
+In your project, you can work in groups of up to four team members. You can choose your teammates independently and we will not interfere with your arrangements. It is however beneficial to collaborate with students from different university faculties as this allows you to gain new perspectives on the project and tasks.
+We are very excited to have you here and looking forward to this exciting semester with you!
