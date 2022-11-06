@@ -1,5 +1,4 @@
 # Curriculum
-The app track includes six dates in which participants are introduced to app development with Flutter and have the chance to support each other in app development. The following bullet points are intended to give an overview of the course and provide more information about the app development track.
 
 #### 4.1 Kick-Off (02.11.2022)
 We are excited to welcome you to the program! This will be your chance to get to know the fellow participants and form your group.
