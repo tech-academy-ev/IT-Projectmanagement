@@ -1,25 +1,69 @@
 # Udemy Course
 
-### Flutter & Dart - The Complete Guide [2022 Edition]
-[A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+### Design Thinking & Project Management Course
+To learn more about Design Thinking in project management, we recommend the [Design Thinking & Project Management: 2 in 1 Complete Guides](https://www.udemy.com/course/complete-guide-design-thinking/) Udemy Course.
 
-As part of the app development track, we recommend that all participants complete the first 4 sections of the Flutter udemy course. The course provides setup instructions for macOS and Windows and explains the fundamentals of flutter development. To be able to fulfill the project requirements, it is highly recommended to complete the suggested course sections.
+This course will help you explore all the concepts, techniques, and processes to solve problems and use Design Thinking and Project Management tools to drive successful innovation in your organization.
+
+As part of the project management track, all participants should complete the following sections of the course. 
 
 ### Overview:
 1. <b>Introduction</b>
     
-    15 Lektionen, insgesamt 1 Std. 57 Min Material
+    5 Units; Duration: 32 Minutes
 
 
-2. <b>Flutter Basics [Quiz App]</b>
+2. <b>Learn The Kinds Of Problems To Solve With Design Thinking </b>
    
-    41 Lektionen, insgesamt 4 Std. 53 Min Material
+    4 Units; Duration: 11 Minutes
 
 
-3. <b>Running Apps on Different Devices & Debugging Apps</b>
+3. <b>Design Thinking Process</b>
     
-    11 Lektionen, insgesamt 38 Min Material
+    10 Units; Duration: 37 Minutes
 
-4. <b>Widgets, Styling, Adding Logic - Building a Real App [PERSONAL EXPENSES APP]</b>
+4. <b>Design Thinking Stage 1 - Empathy</b>
     
-    48 Lektionen- 5 Std. 3 Min Material
+    8 Units; Duration: 27 Minutes
+
+5. <b>Empathy, Empathy, Empathy!!</b>
+    
+    12 Units; Duration: 1 Hours 14 Minutes
+
+6. <b>Design Thinking Stage 2 - Define</b>
+    
+    8 Units; Duration: 46 Minutes
+
+7. <b>Learn User Journey Maps</b>
+    
+    9 Units; Duration: 43 Minutes
+
+8. <b>Learn Point of View & The “how Might We” Method For Discovering Pain Points </b>
+    
+    7 Units; Duration: 35 Minutes
+
+9. <b>Design Thinking Stage 3 - Ideation</b>
+    
+    5 Units; Duration: 37 Minutes
+
+10. <b>Amazing Brainstorming For Ideas!</b>
+    
+    8 Units; Duration: 40 Minutes
+
+11. <b>Learn About Selecting Solutions In Design Thinking</b>
+    
+    3 Units; Duration: 8 Minutes
+
+12. <b>Design Thinking Stage 4 - Prototyping</b>
+    
+    12 Units; Duration: 34 Minutes
+
+13. <b>Design Thinking Stage 5 - Testing</b>
+    
+    9 Units; Duration: 28 Minutes
+
+14. <b>Looking Ahead To A Successful Implementation Following Design Thinking</b>
+    
+    9 Units; Duration: 47 Minutes
+
+This course entails many more sections, which you can additionally take a look at. However, they are not mandatory for the semester program.

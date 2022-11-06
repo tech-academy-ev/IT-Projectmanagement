@@ -15,7 +15,7 @@ nav:
   - Home: index.md
   - Introduction to Design Thinking: ds.md
   - Curriculum: curriculum.md
-  # - Course: course.md
+  - Course: course.md
   - Project: project.md
   - Prototyping: prototyping.md
 markdown_extensions:

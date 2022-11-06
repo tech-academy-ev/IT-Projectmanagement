@@ -6,12 +6,12 @@ We are excited to welcome you to the program! This will be your chance to get to
 
 !!! todo "Sprint 0"
     
-    - Watch:
-        - Introduction (32 Minutes)
-        - Learn The Kinds Of Problems To Solve With Design Thinking (41 Minutes)
-        -Design Thinking Process (37 Minutes)
-        - Design Thinking Stage 1 - Empathy (27 Minutes)
-        - Empathy, Empathy, Empathy!! (1 Hour 14 Minutes)
+    - Watch the following sections:
+        - Introduction
+        - Learn The Kinds Of Problems To Solve With Design Thinking
+        -Design Thinking Process
+        - Design Thinking Stage 1 - Empathy
+        - Empathy, Empathy, Empathy!!
 
 
 #### 4.2 IT Project-Management Introduction (09.11.2022)
@@ -27,13 +27,13 @@ If you’d like to conduct in person interviews, [this](https://designsprintkit.
     
     - Interview your peers (don't forget to document the answers!)
     - Analyze your interviews
-    - Watch the following sections in preparation for the next tasks:
-        - Design Thinking Stage 2 - Define (46 Minutes)
-        - Learn User Journey Maps (43 Minutes)
-        - Learn Point of View & The “How Might We” Method For Discovering Pain Points (35 Minutes)
-        -Design Thinking Stage 3 - Ideation (37 Minutes)
-        - Amazing Brainstorming For Ideas! (40 Minutes)
-        - Learn About Selecting Solutions In Design Thinking (8 Minutes)
+    - Watch the following sections:
+        - Design Thinking Stage 2 - Define
+        - Learn User Journey Maps
+        - Learn Point of View & The “How Might We” Method For Discovering Pain Points
+        -Design Thinking Stage 3 - Ideation
+        - Amazing Brainstorming For Ideas!
+        - Learn About Selecting Solutions In Design Thinking
 
 
 
@@ -54,7 +54,7 @@ How this is supposed to look like and which questions should be answered you can
     - Finalize your idea (What should the app look like, what features does it contain?)
     - Take a look at the Figma section of this guideline.
         - Create your Figma Account and get a feel for the use of it.
-    - Watch the following sections in preparation for the next tasks:
+    - Watch the following sections:
         - Desing Thinking Stage 4 - Prototyping
 
 
@@ -75,7 +75,7 @@ You can also use any other method you’ve gotten to know in the Udemy Course.
     
     - Watch the following sections:
         - Design Thinking Stage 5 - Testing
-        - Looking Ahead To a Successful Implementation  Following Design Thinking (47 Minutes)
+        - Looking Ahead To a Successful Implementation  Following Design Thinking
     
 
 #### 4.5 Third MeetUp (11.01.2023)
